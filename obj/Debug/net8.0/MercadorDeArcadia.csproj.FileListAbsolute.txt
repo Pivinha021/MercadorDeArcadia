@@ -1,0 +1,14 @@
+C:\Users\lucas_s_piva\source\repos\MercadorDeArcadia\obj\Debug\net8.0\MercadorDeArcadia.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\lucas_s_piva\source\repos\MercadorDeArcadia\obj\Debug\net8.0\MercadorDeArcadia.AssemblyInfoInputs.cache
+C:\Users\lucas_s_piva\source\repos\MercadorDeArcadia\obj\Debug\net8.0\MercadorDeArcadia.AssemblyInfo.cs
+C:\Users\lucas_s_piva\source\repos\MercadorDeArcadia\obj\Debug\net8.0\MercadorDeArcadia.csproj.CoreCompileInputs.cache
+C:\Users\lucas_s_piva\source\repos\MercadorDeArcadia\bin\Debug\net8.0\MercadorDeArcadia.exe
+C:\Users\lucas_s_piva\source\repos\MercadorDeArcadia\bin\Debug\net8.0\MercadorDeArcadia.deps.json
+C:\Users\lucas_s_piva\source\repos\MercadorDeArcadia\bin\Debug\net8.0\MercadorDeArcadia.runtimeconfig.json
+C:\Users\lucas_s_piva\source\repos\MercadorDeArcadia\bin\Debug\net8.0\MercadorDeArcadia.dll
+C:\Users\lucas_s_piva\source\repos\MercadorDeArcadia\bin\Debug\net8.0\MercadorDeArcadia.pdb
+C:\Users\lucas_s_piva\source\repos\MercadorDeArcadia\obj\Debug\net8.0\MercadorDeArcadia.dll
+C:\Users\lucas_s_piva\source\repos\MercadorDeArcadia\obj\Debug\net8.0\refint\MercadorDeArcadia.dll
+C:\Users\lucas_s_piva\source\repos\MercadorDeArcadia\obj\Debug\net8.0\MercadorDeArcadia.pdb
+C:\Users\lucas_s_piva\source\repos\MercadorDeArcadia\obj\Debug\net8.0\MercadorDeArcadia.genruntimeconfig.cache
+C:\Users\lucas_s_piva\source\repos\MercadorDeArcadia\obj\Debug\net8.0\ref\MercadorDeArcadia.dll
